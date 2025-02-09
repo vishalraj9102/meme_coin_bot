@@ -1,0 +1,50 @@
+# 🚀 Python & Flask Ignore Rules
+
+# Virtual environment
+venv/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables & Secrets
+.env
+*.env
+config/settings_local.py
+
+# Logs & Debug Files
+*.log
+logs/
+debug.log
+nohup.out
+
+# Database & Migrations
+*.sqlite3
+*.db
+migrations/
+instance/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 🔹 Solana Wallet Files (Sensitive!)
+keypair.json
+wallet.json
+
+# 🚀 Node.js Dependencies (if frontend is included)
+node_modules/
+package-lock.json
+yarn.lock
