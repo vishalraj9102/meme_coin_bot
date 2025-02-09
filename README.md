@@ -1,15 +1,13 @@
-### **🚀 Updated `README.md` with Google Sheet Documentation**  
-I've added the **Google Sheet documentation** section to your `README.md`.  
-
-📌 **Updated `README.md`**:
-```md
+```
 # 🚀 Meme Coin Trading Bot 🪙  
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)  
 ![Flask](https://img.shields.io/badge/Flask-2.2-lightgrey?style=for-the-badge&logo=flask)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql)  
 ![Solana](https://img.shields.io/badge/Solana-Web3-green?style=for-the-badge&logo=solana)
 
-### 📖 About  
+---
+
+## 📖 **About**  
 🔹 **Meme Coin Trading Bot** is an automated **Solana-based trading bot** that:  
 ✅ **Scans** new meme coins launching on Solana 🔍  
 ✅ **Filters** profitable tokens based on price change & liquidity 📈  
@@ -28,9 +26,21 @@ I've added the **Google Sheet documentation** section to your `README.md`.
 
 ---
 
-## 📑 **Research & Documentation**
+## 📑 **Research & Documentation**  
 All research, planning, and approach for this project have been documented in a **Google Sheet**.  
 📌 **View the Documentation Here:** [🔗 Google Sheet](YOUR_GOOGLE_SHEET_LINK_HERE)
+
+---
+
+## 🖼️ **Output Screenshots**
+### ✅ **Meme Coin Scanning**
+![Scanning Output](static/s-3.png)
+
+### ✅ **Trade Execution**
+![Trade Execution](static/s-1.png)
+
+### ✅ **Trade History in Database**
+![Trade History](static/s-2.png)
 
 ---
 
@@ -90,7 +100,6 @@ flask run
 |------------|-------------|----------------|
 | `GET` | `/scan/` | Scan for new meme coins |
 | `POST` | `/trade/` | Execute a trade (BUY/SELL) |
-| `GET` | `/history/` | Fetch trade history |
 
 ---
 
@@ -136,9 +145,6 @@ Use **`.env` files** and **store them securely**.
 
 ---
 
-## 📜 **License**
-⚖️ This project is licensed under the **MIT License**.
-
 ---
 
 ## ⭐ **Support & Feedback**
@@ -146,6 +152,3 @@ Use **`.env` files** and **store them securely**.
 💬 **Have questions?** Open an **issue** or reach out via email.
 
 ---
-
-✅ **Now your `README.md` includes a link to the research Google Sheet!** 🚀🔥  
-Let me know if you need any modifications! 😊
