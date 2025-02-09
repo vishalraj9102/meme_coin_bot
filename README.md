@@ -28,7 +28,7 @@
 
 ## 📑 **Research & Documentation**  
 All research, planning, and approach for this project have been documented in a **Google Sheet**.  
-📌 **View the Documentation Here:** [🔗 Google Sheet](YOUR_GOOGLE_SHEET_LINK_HERE)
+📌 **View the Documentation Here:** [🔗 Google Sheet](https://docs.google.com/document/d/1wzVILqAv9pIIVJdBi-T-8y6bT8tXnDkdmklYMzR4BxY/edit?usp=sharing)
 
 ---
 
