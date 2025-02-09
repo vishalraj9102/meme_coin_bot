@@ -1,10 +1,3 @@
-```
-# 🚀 Meme Coin Trading Bot 🪙  
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)  
-![Flask](https://img.shields.io/badge/Flask-2.2-lightgrey?style=for-the-badge&logo=flask)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql)  
-![Solana](https://img.shields.io/badge/Solana-Web3-green?style=for-the-badge&logo=solana)
-
 ---
 
 ## 📖 **About**  
@@ -28,7 +21,8 @@
 
 ## 📑 **Research & Documentation**  
 All research, planning, and approach for this project have been documented in a **Google Sheet**.  
-📌 **View the Documentation Here:** [🔗 Google Sheet](https://docs.google.com/document/d/1wzVILqAv9pIIVJdBi-T-8y6bT8tXnDkdmklYMzR4BxY/edit?usp=sharing)
+📌 [Google Sheet Documentation](https://docs.google.com/document/d/1wzVILqAv9pIIVJdBi-T-8y6bT8tXnDkdmklYMzR4BxY/edit?usp=sharing)
+
 
 ---
 
