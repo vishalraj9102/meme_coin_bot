@@ -1,5 +1,3 @@
----
-
 ## 📖 **About**  
 🔹 **Meme Coin Trading Bot** is an automated **Solana-based trading bot** that:  
 ✅ **Scans** new meme coins launching on Solana 🔍  
