@@ -32,15 +32,6 @@ All research, planning, and approach for this project have been documented in a 
 
 ---
 
-## 🖼️ **Output Screenshots**
-### ✅ **Meme Coin Scanning**
-![Scanning Output](static/s-3.png)
-
-### ✅ **Trade Execution**
-![Trade Execution](static/s-1.png)
-
-### ✅ **Trade History in Database**
-![Trade History](static/s-2.png)
 
 ---
 
@@ -152,3 +143,15 @@ Use **`.env` files** and **store them securely**.
 💬 **Have questions?** Open an **issue** or reach out via email.
 
 ---
+
+
+## 🖼️ **Output Screenshots**
+### ✅ **Meme Coin Scanning**
+![Scanning Output](static/s-3.png)
+
+### ✅ **Trade Execution**
+![Trade Execution](static/s-1.png)
+
+### ✅ **Trade History in Database**
+![Trade History](static/s-2.png)
+
